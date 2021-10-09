@@ -42,7 +42,7 @@ namespace Itimoji_gotoni_kuuhaku_wo_ireruyatu
                 output += c.ToString() + input2;
             }
 
-            OutputBox.Text = output;
+            OutputBox.Text = output.TrimEnd().TrimStart();
 
             await Task.Delay(100);
         }
