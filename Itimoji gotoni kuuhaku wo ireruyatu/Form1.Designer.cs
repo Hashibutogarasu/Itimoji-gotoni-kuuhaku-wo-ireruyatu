@@ -150,7 +150,8 @@ namespace Itimoji_gotoni_kuuhaku_wo_ireruyatu
             this.Controls.Add(this.HenkansurumojiBox);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(385, 196);
+            this.MaximumSize = new System.Drawing.Size(385, 353);
+            this.MinimumSize = new System.Drawing.Size(385, 353);
             this.Name = "Form1";
             this.Text = "一文字ごとに文字を入れるツール";
             this.Load += new System.EventHandler(this.Form1_Load);
