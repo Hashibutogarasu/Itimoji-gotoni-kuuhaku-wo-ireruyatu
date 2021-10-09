@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itimoji gotoni kuuhaku wo ireruyatu", "Itimoji gotoni kuuhaku wo ireruyatu\Itimoji gotoni kuuhaku wo ireruyatu.csproj", "{5DACDDFB-8C45-48D8-9CDA-8F7E9253E958}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Itimoji Ireruyatu Installer", "Itimoji Ireruyatu Installer\Itimoji Ireruyatu Installer.vdproj", "{01B234CF-91AA-4ADA-808F-4CC70DB98069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DACDDFB-8C45-48D8-9CDA-8F7E9253E958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DACDDFB-8C45-48D8-9CDA-8F7E9253E958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DACDDFB-8C45-48D8-9CDA-8F7E9253E958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DACDDFB-8C45-48D8-9CDA-8F7E9253E958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B234CF-91AA-4ADA-808F-4CC70DB98069}.Debug|Any CPU.ActiveCfg = Debug
+		{01B234CF-91AA-4ADA-808F-4CC70DB98069}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB77D65F-55FF-404F-9522-BFD520EC69EC}
+	EndGlobalSection
+EndGlobal
